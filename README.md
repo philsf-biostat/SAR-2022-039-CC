@@ -2,8 +2,8 @@
 
 Objective
 
-Statistical Analysis for PERSON (PLACE, yyyy)
-<!-- Technical Report for  PERSON (PLACE, yyyy) -->
+<!-- Statistical Analysis for Christopher258 (Fiverr, 2022) -->
+Technical Report for Christopher258 (Fiverr, 2022)
 
 ## Analyses performed
 
