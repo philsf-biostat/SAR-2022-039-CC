@@ -62,6 +62,9 @@ source("scripts/results.R", encoding = 'UTF-8')
 
 ## Objectives
 
+Perform a methodological review on the PLOS One paper
+"Climate Extremes Promote Fatal Co-Infections during Canine Distemper Epidemics in African Lions".
+
 ## Data reception and cleaning
 
 # Methods

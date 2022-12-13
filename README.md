@@ -1,6 +1,7 @@
 # [title]
 
-Objective
+Perform a methodological review on the PLOS One paper
+"Climate Extremes Promote Fatal Co-Infections during Canine Distemper Epidemics in African Lions".
 
 <!-- Statistical Analysis for Christopher Cartwright (Fiverr, 2022) -->
 Technical Report for Christopher Cartwright (Fiverr, 2022)
