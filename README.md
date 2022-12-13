@@ -2,8 +2,8 @@
 
 Objective
 
-<!-- Statistical Analysis for Christopher258 (Fiverr, 2022) -->
-Technical Report for Christopher258 (Fiverr, 2022)
+<!-- Statistical Analysis for Christopher Cartwright (Fiverr, 2022) -->
+Technical Report for Christopher Cartwright (Fiverr, 2022)
 
 ## Analyses performed
 
