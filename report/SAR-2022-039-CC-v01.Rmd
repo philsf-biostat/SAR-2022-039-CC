@@ -95,7 +95,7 @@ Perform a methodological review on the PLOS One paper
 
 # References
 
-- **SAP-2022-039-CH-v01** -- Analytical Plan for Comments on the PLOS One paper "Climate Extremes Promote Fatal Co-Infections during Canine Distemper Epidemics in African Lions": methodological review
+- Munson L, Terio KA, Kock R, Mlengeya T, Roelke ME, Dubovi E, et al. (2008) Climate Extremes Promote Fatal Co-Infections during Canine Distemper Epidemics in African Lions. PLoS ONE 3(6): e2545. (<https://doi.org/10.1371/journal.pone.0002545>)
 
 # Appendix
 
