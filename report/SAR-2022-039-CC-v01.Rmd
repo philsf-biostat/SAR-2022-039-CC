@@ -67,31 +67,11 @@ N/A
 Perform a methodological review on the PLOS One paper
 "Climate Extremes Promote Fatal Co-Infections during Canine Distemper Epidemics in African Lions".
 
-<!-- ## Data reception and cleaning -->
-
-<!-- # Methods -->
-
-<!-- ## Study parameters -->
-
-<!-- ### Study design -->
-
-<!-- ### Inclusion and exclusion criteria -->
-
-<!-- ### Exposures -->
-
-<!-- ### Outcomes -->
-
-<!-- ### Covariates -->
-
-<!-- ## Statistical analyses -->
-
-<!-- This analysis was performed using statistical software `R` version `r getRversion()`. -->
-
-# Results
+# Review
 
 # Observations and Limitations
 
-# Conclusions
+<!-- # Conclusions -->
 
 # References
 
@@ -99,7 +79,7 @@ Perform a methodological review on the PLOS One paper
 
 # Appendix
 
-## Exploratory data analysis
+<!-- ## Exploratory data analysis -->
 
 ```{r A1, fig.cap="**Figure A1** Distribution of age in the study population."}
 # ![Age](../figures/distr_age.png)
@@ -121,13 +101,3 @@ The portfolio is available at:
 
 <https://philsf-biostat.github.io/SAR-2022-039-CC/>
 
-## Analytical dataset
-
-Table A1 shows the structure of the analytical dataset.
-
-```{r data}
-analytical_mockup %>%
-  pander(caption = "**Table A1** Analytical dataset structure")
-```
-
-Due to confidentiality the data-set used in this analysis cannot be shared online in the public version of this report.
