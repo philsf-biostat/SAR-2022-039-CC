@@ -1,5 +1,5 @@
 ---
-title: "[title]"
+title: 'Comments on the PLOS One paper "Climate Extremes Promote Fatal Co-Infections during Canine Distemper Epidemics in African Lions": methodological review'
 subtitle: 'DOCUMENT: SAR-2022-039-CH-v01'
 author: '**From:** Felipe Figueiredo **To:** Christopher Cartwright'
 date: "`r Sys.Date()`"
@@ -37,7 +37,7 @@ panderOptions('table.split.table', 160)
 
 \newpage
 
-**[title]**
+**Comments on the PLOS One paper "Climate Extremes Promote Fatal Co-Infections during Canine Distemper Epidemics in African Lions": methodological review**
 
 **Document version**
 
@@ -116,7 +116,7 @@ tab_inf %>%
 
 # References
 
-- **SAP-2022-039-CH-v01** -- Analytical Plan for [title]
+- **SAP-2022-039-CH-v01** -- Analytical Plan for Comments on the PLOS One paper "Climate Extremes Promote Fatal Co-Infections during Canine Distemper Epidemics in African Lions": methodological review
 
 # Appendix
 
