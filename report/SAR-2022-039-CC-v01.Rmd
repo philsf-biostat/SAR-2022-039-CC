@@ -1,6 +1,6 @@
 ---
 title: 'Comments on the PLOS One paper "Climate Extremes Promote Fatal Co-Infections during Canine Distemper Epidemics in African Lions": methodological review'
-subtitle: 'DOCUMENT: SAR-2022-039-CH-v01'
+subtitle: 'DOCUMENT: SAR-2022-039-CC-v01'
 author: '**From:** Felipe Figueiredo **To:** Christopher Cartwright'
 date: "`r Sys.Date()`"
 output:
@@ -119,7 +119,7 @@ All documents from this consultation were included in the consultant's Portfolio
 
 The portfolio is available at:
 
-<https://philsf-biostat.github.io/SAR-2022-039-CH/>
+<https://philsf-biostat.github.io/SAR-2022-039-CC/>
 
 ## Analytical dataset
 
