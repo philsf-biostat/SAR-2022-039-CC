@@ -58,6 +58,8 @@ source("scripts/results.R", encoding = 'UTF-8')
 
 # Abbreviations
 
+N/A
+
 # Context
 
 ## Objectives
@@ -65,50 +67,27 @@ source("scripts/results.R", encoding = 'UTF-8')
 Perform a methodological review on the PLOS One paper
 "Climate Extremes Promote Fatal Co-Infections during Canine Distemper Epidemics in African Lions".
 
-## Data reception and cleaning
+<!-- ## Data reception and cleaning -->
 
-# Methods
+<!-- # Methods -->
 
-## Study parameters
+<!-- ## Study parameters -->
 
-### Study design
+<!-- ### Study design -->
 
-### Inclusion and exclusion criteria
+<!-- ### Inclusion and exclusion criteria -->
 
-### Exposures
+<!-- ### Exposures -->
 
-### Outcomes
+<!-- ### Outcomes -->
 
-### Covariates
+<!-- ### Covariates -->
 
-## Statistical analyses
+<!-- ## Statistical analyses -->
 
-This analysis was performed using statistical software `R` version `r getRversion()`.
+<!-- This analysis was performed using statistical software `R` version `r getRversion()`. -->
 
 # Results
-
-## Study population and follow up
-
-```{r tab_desc}
-tab_desc %>%
-  as_kable(
-    caption = "**Table 1** caption"
-  )
-```
-
-```{r fig1, fig.cap="**Figure 1** caption"}
-# ![Age](../figures/outcome.png)
-# knitr::include_graphics("../figures/outcome.png", error = FALSE)
-```
-
-## Inferential analysis
-
-```{r tab_inf}
-tab_inf %>%
-  as_kable(
-    caption = "**Table 2** caption"
-  )
-```
 
 # Observations and Limitations
 
