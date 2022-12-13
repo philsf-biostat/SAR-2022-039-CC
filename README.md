@@ -7,11 +7,12 @@ Technical Report for Christopher258 (Fiverr, 2022)
 
 ## Analyses performed
 
-1. Descriptive analysis
-1. Inferential analysis
-1. Power analysis
-1. Missing data imputation
-1. Statistical models
+<!-- 1. Descriptive analysis -->
+<!-- 1. Inferential analysis -->
+<!-- 1. Power analysis -->
+<!-- 1. Missing data imputation -->
+<!-- 1. Statistical models -->
+1. Article review
 
 ## Documents
 
