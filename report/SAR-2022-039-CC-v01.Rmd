@@ -1,5 +1,5 @@
 ---
-title: 'Critical appraisal on the methods of the PLoS ONE paper "Climate Extremes Promote Fatal Co-Infections during Canine Distemper Epidemics in African Lions"'
+title: 'Critical appraisal of the methods from the PLoS ONE paper "Climate Extremes Promote Fatal Co-Infections during Canine Distemper Epidemics in African Lions"'
 subtitle: 'DOCUMENT: SAR-2022-039-CC-v01'
 author: '**From:** Felipe Figueiredo **To:** Christopher Cartwright'
 date: "`r Sys.Date()`"
@@ -37,7 +37,7 @@ panderOptions('table.split.table', 160)
 
 \newpage
 
-**Critical appraisal on the methods of the PLoS ONE paper "Climate Extremes Promote Fatal Co-Infections during Canine Distemper Epidemics in African Lions"**
+**Critical appraisal of the methods from the PLoS ONE paper "Climate Extremes Promote Fatal Co-Infections during Canine Distemper Epidemics in African Lions"**
 
 **Document version**
 
@@ -64,7 +64,7 @@ N/A
 
 ## Objectives
 
-Review the methods and arguments on the PLoS ONE paper
+Review the methods and arguments from the PLoS ONE paper
 "Climate Extremes Promote Fatal Co-Infections during Canine Distemper Epidemics in African Lions".
 
 # Review
