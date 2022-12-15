@@ -1,6 +1,6 @@
-# Critical appraisal on the methods of the PLOS One paper "Climate Extremes Promote Fatal Co-Infections during Canine Distemper Epidemics in African Lions"
+# Critical appraisal on the methods of the PLoS ONE paper "Climate Extremes Promote Fatal Co-Infections during Canine Distemper Epidemics in African Lions"
 
-Review the methods and arguments on the PLOS One paper
+Review the methods and arguments on the PLoS ONE paper
 "Climate Extremes Promote Fatal Co-Infections during Canine Distemper Epidemics in African Lions".
 
 <!-- Statistical Analysis for Christopher Cartwright (Fiverr, 2022) -->
