@@ -69,6 +69,20 @@ Review the methods and arguments from the PLoS ONE paper
 
 # Review
 
+## Methods
+
+### Study design
+
+### Statistical analysis
+
+## Statistical or causal claims
+
+### Correlation claims
+
+### Strong or causal claims
+
+## Unspecified statistical analyses
+
 # Observations and Limitations
 
 <!-- # Conclusions -->
