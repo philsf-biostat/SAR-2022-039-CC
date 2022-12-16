@@ -17,13 +17,13 @@ Technical Report for Christopher Cartwright (Fiverr, 2022)
 
 ## Documents
 
-### Analytical Plan (SAP)
+<!-- ### Analytical Plan (SAP) -->
 
 <!-- - [Online visualization][sapviz-v02] -->
 <!-- - [PDF][sappdf-v02] -->
 
-- [Online visualization][sapviz-v01]
-- [PDF][sappdf-v01]
+<!-- - [Online visualization][sapviz-v01] -->
+<!-- - [PDF][sappdf-v01] -->
 
 ### Statistical Analysis Report (SAR)
 
