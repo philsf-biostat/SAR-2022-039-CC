@@ -102,6 +102,9 @@ Several questions arise from this under-reporting:
 
 If the conclusion relies on these results it is odd not to have them described in the Methods of the article.
 
+It is also noteworthy that a multivariate analysis adequate for longitudinal data would need to consider the time dimension of that data (see section 3.2).
+These could include either multi-level models or any time series approach, given the aims of the study.
+
 ---
 
 *"In support of that hypothesis, hemoparasite levels were significantly higher in lions that fed on buffalo during the 1994 Serengeti die-off than in lions from prides with low buffalo exposure (P = 0.0011, Mann-Whitney)."*
