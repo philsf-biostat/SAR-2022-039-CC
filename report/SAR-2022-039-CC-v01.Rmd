@@ -58,7 +58,8 @@ kable(history)
 
 # Abbreviations
 
-N/A
+- CDV: Canine distemper virus
+- FIV: Feline immunodeficiency virus
 
 # Context
 
