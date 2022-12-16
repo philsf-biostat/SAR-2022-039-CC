@@ -1,51 +1,30 @@
 ---
-title: '[title]'
-date: ""
+title: 'Critical appraisal of the methods from the PLoS ONE paper "Climate Extremes Promote Fatal Co-Infections during Canine Distemper Epidemics in African Lions"'
+date: "2022-12-16"
 permalink: /portfolio/SAR-2022-039/
 redirect_from:
   - /portfolio/SAR-2022-039-CH/
   - /SAR-2022-039-CH/
   - /SAR-2022-039/
 categories:
-  - case-control
-  - cross-sectional
-  - longitudinal-studies
-  - cohort
-  - clinical-trial
-  - ecological
-  - epidemiology
-  - bioassay
-  - systematic-review
   - technical-report
-  - data-product
 tags:
-  - prevalence
-  - incidence
-  - diagnostic-models
-  - prognostic-models
-  - survival-analysis
-  - efficacy
-  - concordance-analysis
-  - survey
-  - meta-analysis
-  - decision-trees
-  - machine-learning
-  - unsupervised-learning
-  - data-instrument
 ---
 
-Objective
+Review the methods and arguments from the PLoS ONE paper
+"Climate Extremes Promote Fatal Co-Infections during Canine Distemper Epidemics in African Lions".
 
-Statistical Analysis for PERSON (PLACE, yyyy)
-<!-- Technical Report for  PERSON (PLACE, yyyy) -->
+<!-- Statistical Analysis for Christopher Cartwright (Fiverr, 2022) -->
+Technical Report for Christopher Cartwright (Fiverr, 2022)
 
 ## Analyses performed
 
-1. Descriptive analysis
-1. Inferential analysis
-1. Power analysis
-1. Missing data imputation
-1. Statistical models
+<!-- 1. Descriptive analysis -->
+<!-- 1. Inferential analysis -->
+<!-- 1. Power analysis -->
+<!-- 1. Missing data imputation -->
+<!-- 1. Statistical models -->
+1. Article review
 
 ## Documents
 
@@ -56,9 +35,9 @@ Statistical Analysis for PERSON (PLACE, yyyy)
 <!-- The client has requested that this analysis be kept confidential. -->
 <!-- All documents from this consultation are therefore not published online and only the title and year of the analysis will be included in the consultant's Portfolio. -->
 
-### Analytical Plan (SAP)
+<!-- ### Analytical Plan (SAP) -->
 
-- [PDF][sap]
+<!-- - [PDF][sap] -->
 
 ### Statistical Analysis Report (SAR)
 
