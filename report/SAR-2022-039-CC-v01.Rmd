@@ -162,6 +162,9 @@ To a non-specialist in these particular pathologies, the facts that FIV (1) was 
 It is often repeated that correlation does not imply causation.
 It is worthy to add that no previous link found does not imply absence of a link.
 
+The second cited paper (Packer, et al. 1999) does not investigate associate a possible association or interaction between FIV and CDV.
+The first one does not mention CDV.
+
 ---
 In another section they observe that:
 
@@ -172,6 +175,8 @@ Was this possibility considered and discarded?
 If so, what tests were used and if not why not?
 
 # Observations and Limitations
+
+N/A
 
 <!-- # Conclusions -->
 
