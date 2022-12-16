@@ -50,12 +50,12 @@ Other analyses performed can also be seen at:
 
 <!-- --- -->
 
-[sapviz-v01]: report/SAP-2022-039-CH-v01.md
-[sapviz-v02]: report/SAP-2022-039-CH-v02.md
-[sappdf-v01]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2022-039-CH/raw/main/report/SAP-2022-039-CH-v01.pdf
-[sappdf-v02]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2022-039-CH/raw/main/report/SAP-2022-039-CH-v02.pdf
+[sapviz-v01]: report/SAP-2022-039-CC-v01.md
+[sapviz-v02]: report/SAP-2022-039-CC-v02.md
+[sappdf-v01]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2022-039-CC/raw/main/report/SAP-2022-039-CC-v01.pdf
+[sappdf-v02]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2022-039-CC/raw/main/report/SAP-2022-039-CC-v02.pdf
 
-[reportviz-v01]: report/SAR-2022-039-CH-v01.md
-[reportviz-v02]: report/SAR-2022-039-CH-v02.md
-[pdf-v01]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2022-039-CH/raw/main/report/SAR-2022-039-CH-v01.pdf
-[pdf-v02]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2022-039-CH/raw/main/report/SAR-2022-039-CH-v02.pdf
+[reportviz-v01]: report/SAR-2022-039-CC-v01.md
+[reportviz-v02]: report/SAR-2022-039-CC-v02.md
+[pdf-v01]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2022-039-CC/raw/main/report/SAR-2022-039-CC-v01.pdf
+[pdf-v02]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2022-039-CC/raw/main/report/SAR-2022-039-CC-v02.pdf

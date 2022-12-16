@@ -53,5 +53,5 @@ Technical Report for Christopher Cartwright (Fiverr, 2022)
 
 <!-- --- -->
 
-[sap]: /files/SAP-2022-039-CH-v01.pdf
-[sar]: /files/SAR-2022-039-CH-v01.pdf
+[sap]: /files/SAP-2022-039-CC-v01.pdf
+[sar]: /files/SAR-2022-039-CC-v01.pdf
